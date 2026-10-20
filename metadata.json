@@ -1,0 +1,6 @@
+{
+  "name": "RxLens — Prescription Reader",
+  "description": "Turn handwritten prescription photos into verified, plain-language medicine plans with drug database matching, smart reminders, and caregiver alerts.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
